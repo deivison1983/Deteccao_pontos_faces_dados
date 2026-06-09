@@ -1,5 +1,7 @@
 # Detecção e Contagem Automática de Pontos em Dados com Visão Computacional
-<img src="data/imagem/dados_readme.png" width="500" height="500">
+<div align="center">
+      <img src="data/imagem/dados_readme.png" width="500" height="500">
+</div>      
 
 ## Sobre o Projeto
 
