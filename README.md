@@ -1,4 +1,4 @@
-# Detecção e Contagem Automática de Pontos em Dados com Visão Computacional
+# Detecção e Contagem Automática de Pontos em Faces de Dados com Visão Computacional
 <div align="center">
       <img src="data/imagem/dados_readme.png" width="425" height="425">
 </div>      
