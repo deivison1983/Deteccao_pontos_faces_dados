@@ -1,4 +1,5 @@
 # Detecção e Contagem Automática de Pontos em Dados com Visão Computacional
+<img src="data/imagem/dados_portfolio.png">
 
 ## Sobre o Projeto
 
